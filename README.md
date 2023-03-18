@@ -9,8 +9,6 @@
 
 - 🎓 My JavaScript freecodecamp [certification](https://www.freecodecamp.org/certification/fccf07d0c17-1400-41be-8270-1b3e88df97b9/javascript-algorithms-and-data-structures)
 
-- 💬 Ask me about **not much for now**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
